@@ -24,3 +24,7 @@
 
 ### Status code
 [Link] - https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
+
+
+### Guia para formtar o README
+[Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
