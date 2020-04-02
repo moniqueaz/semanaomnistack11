@@ -34,3 +34,6 @@ npm - `npm install react-native-reanimated react-native-gesture-handler react-na
 Dependencia para lidar com a barra to topo
 `expo install expo-constants` -> rodar `npm install` após.
 
+Dependencia para lidar com email
+`expo install expo-mail-composer`
+[Doc Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
