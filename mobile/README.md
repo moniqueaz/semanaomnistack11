@@ -23,7 +23,6 @@ Caso tenha problemas para emular no celular acesse
 [Doc](https://reactnavigation.org/docs/getting-started/)
 
 Dependencias caso esteja rodando no expo
-
 `expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view`
 
 Dependencias caso esteja rodando no navegador
@@ -31,3 +30,14 @@ Dependencias caso esteja rodando no navegador
 yarn - `yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view`
 
 npm - `npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view`
+
+Dependencia para lidar com a barra to topo
+`expo install expo-constants` -> rodar `npm install` após.
+
+Dependencia para lidar com email
+`expo install expo-mail-composer`
+[Doc Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
+
+### Gerando APK e IPA
+
+[Video YouTube](https://www.youtube.com/watch?v=wYMvzbfBdYI)
