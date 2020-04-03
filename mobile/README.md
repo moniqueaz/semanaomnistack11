@@ -37,3 +37,7 @@ Dependencia para lidar com a barra to topo
 Dependencia para lidar com email
 `expo install expo-mail-composer`
 [Doc Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
+
+### Gerando APK e IPA
+
+[Video YouTube](https://www.youtube.com/watch?v=wYMvzbfBdYI)
